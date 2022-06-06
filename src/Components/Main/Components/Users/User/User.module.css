@@ -1,0 +1,23 @@
+.container{
+    background-color: antiquewhite;
+    width: 45%;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.images{
+    width: 20%;
+}
+.images img{
+    border-radius: 50%;
+    vertical-align: middle;
+    width: 100%;
+}
+.online svg{
+    color: greenyellow;
+}
+.offline svg{
+    color: gray;
+}
